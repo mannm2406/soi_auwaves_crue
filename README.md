@@ -20,5 +20,5 @@ conda install -r requirements.txt
 5. `final_model_data.pt`: The data for the trained model, to be used for inference
 6. `inference.ipynb`: Code for inference, i.e. generating labels for the unlabelled data
 7. `the_crue_submission.csv`: Labels of the unlabelled data, predicted by out model
-8. `report.pdf`: Report
-9. `contribution.pdf`: Contribution file 
+8. `Report.pdf`: Report
+9. `Contribution.pdf`: Contribution file 
